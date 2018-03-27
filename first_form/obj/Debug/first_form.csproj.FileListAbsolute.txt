@@ -1,0 +1,10 @@
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\bin\Debug\first_form.exe.config
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\bin\Debug\first_form.exe
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\bin\Debug\first_form.pdb
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.csprojResolveAssemblyReference.cache
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.Form.resources
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.Properties.Resources.resources
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.csproj.GenerateResource.Cache
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.csproj.CoreCompileInputs.cache
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.exe
+C:\Users\aadocenko\Desktop\задания по си\first_form\first_form\obj\Debug\first_form.pdb
